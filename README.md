@@ -1,7 +1,10 @@
 <h3> About Me </h3>
+
 - 🔭 I’m currently working on a project that is pushing the food & beverage industry into the future
 - 🌱 I’m currently doing my Master in Computer Science, atm learning about IoT and automated systems as well as the project
 - 📫 How to reach me: <aron.h.strandberg@gmail.com>
+
+---
 
 <h3>Stack</h3>
 
