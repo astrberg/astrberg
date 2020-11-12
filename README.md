@@ -4,7 +4,7 @@
 - 📫 How to reach me: <aron.h.strandberg@gmail.com>
 
 <h3>Stack</h3>
-- !<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>
+- ![RUST](<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></a>)
   !<a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
   !<a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
   !<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
