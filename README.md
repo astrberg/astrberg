@@ -43,14 +43,12 @@
   <img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-
-<br/>
-
+---
 <a href="https://github.com/bugmana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bugmana&show_icons=true&theme=cobalt" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugmana&theme=cobalt&layout=compact" />
 </a>
-
+---
 <a href="https://github.com/bugmana/d7024e-kademlia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugmana&repo=d7024e-kademlia" />
 </a>
