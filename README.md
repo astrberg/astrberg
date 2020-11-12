@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3> About Me </h3>
+- 🔭 I’m currently working on a project that is pushing the food & beverage industry into the future
+- 🌱 I’m currently doing my Master in Computer Science, atm learning about IoT and automated systems as well as the project
+- 📫 How to reach me: <aron.h.strandberg@gmail.com>
 
-<!--
-**bugmana/bugmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Stack</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Anurag's github stats])]
+<a href="https://github.com/bugmana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bugmana&show_icons=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugmana&theme=cobalt&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugmana&repo=d7024e-kademlia" />
+</a>
+
