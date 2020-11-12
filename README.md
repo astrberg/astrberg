@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugmana&theme=cobalt&layout=compact" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bugmana/d7024e-kademlia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugmana&repo=d7024e-kademlia" />
 </a>
 
