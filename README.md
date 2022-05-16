@@ -1,7 +1,6 @@
 <h3> About Me </h3>
 
-- 🔭 I’m currently working on software services for the food & beverage industry
-- 🌱 I’m currently working on my Master Thesis in Computer Science
+- 🔭 Maintaining and developing APIs for the food & beverage industry
 - 📫 How to reach me: <aron.h.strandberg@gmail.com>
 
 ---
