@@ -18,13 +18,3 @@
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 - <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
-
----
-<a href="https://github.com/bugmana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrberg&show_icons=true&theme=cobalt" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrberg&theme=cobalt&layout=compact" />
-</a>
-
-
-
