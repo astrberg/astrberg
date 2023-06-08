@@ -1,1 +1,1 @@
-- 📫 How to reach me: <aron@strandberg.dev>
+📫 How to reach me: <aron@strandberg.dev>
